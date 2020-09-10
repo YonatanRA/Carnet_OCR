@@ -1,1 +1,0 @@
-__author__ = "Juliano Lazzarotto aka stackchain"
